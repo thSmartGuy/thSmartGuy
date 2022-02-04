@@ -13,14 +13,6 @@
  
  ---
  
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/thSmartGuy/count.svg?align=center)
-
- ![Github stats](https://github-readme-stats.vercel.app/api?username=thSmartGuy)  
- 
- 
- <hr>
- 
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thSmartGuy&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
